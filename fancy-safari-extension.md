@@ -1,7 +1,4 @@
-
-[Source](https://camgould.com/blog/posts/fancy-safari-extension "Permalink to Fancy Safari extension | Cam")
-
-# Fancy Safari extension | Cam
+# Fancy Safari extension
 
 ##### 27th Dec, 2014 by [Cam][1]
 
@@ -19,6 +16,6 @@ To see how I made it, read my previous post ["Make Your Own Safari Extensions"][
 
 [1]: https://plus.google.com/+CamGould?rel=author
 [2]: https://github.com/Cam/fancy-it/raw/master/demo-image.png "Fancy Safari Extension"
-[3]: http://fancy.to/ece67x
+[3]: https://fancy.to/ece67x
 [4]: https://raw.githubusercontent.com/Cam/fancy-it/master/fancy.safariextz
-[5]: http://camgould.com/blog/posts/make-your-own-safari-extensions
+[5]: https://camgould.com/blog/posts/make-your-own-safari-extensions
