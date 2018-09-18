@@ -26,8 +26,6 @@ Using this method can be a great way to help make it easy for people to post a t
 
 If you want to make life a little easier, and and avoid manually writing the formatted html of the message, you can use the [URL encoding tool from w3schools.com][4]. Just write your message (including links and hashtags) in the 'Try It Yourself' field, and add 'https://twitter.com/intent/tweet?' before the text that is output by that tool.
 
-The feature image used for this article is '[Seagulls Flying][5]' by 'Bert van 't Hul'
-
 [1]: https://plus.google.com/+CamGould?rel=author
 [2]: https://twitter.com/intent/tweet?text=Your+text+here+http%3A%2F%2Fyoursite.com%2Fyour-page+%23yourhashtag&via=yourtwittername
 [3]: https://twitter.com/intent/tweet?text=How+to+create+a+link+that+posts+a+tweet+http%3A%2F%2Fcamgould.com%2Fblog%2Fposts%2Fcreating-a-link-that-posts-a-tweet+%23intent+%23action+%23blog&via=camgould
