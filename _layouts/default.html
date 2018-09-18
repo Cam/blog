@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
     {% comment %}
-      Special page specific stuff=
+      Special page specific stuff
     {% endcomment %}
     {% if page.url == "/soundcloud" %}
       <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
@@ -33,7 +33,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      {% if page.url == "/index.html" %}
+      {% if page.url == "/index" %}
         <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       {% else %}
         <a href="/" title="{{ site.title | default: site.github.repository_name }}"><h2 class="project-name">{{ site.title | default: site.github.repository_name }}</h2></a>
