@@ -19,3 +19,5 @@ To see how I made it, read my previous post ["Make Your Own Safari Extensions"][
 [3]: https://fancy.to/ece67x
 [4]: https://raw.githubusercontent.com/Cam/fancy-it/master/fancy.safariextz
 [5]: https://camgould.com/blog/posts/make-your-own-safari-extensions
+
+{% include comments.html %}

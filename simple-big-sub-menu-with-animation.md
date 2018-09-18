@@ -29,3 +29,5 @@ You can change the position of the submenu to 'absolute' if you want the menu to
 <br>
 
 [1]: https://plus.google.com/+CamGould?rel=author
+
+{% include comments.html %}

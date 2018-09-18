@@ -43,3 +43,5 @@ If you want someone to install this for you, you can contact me here, or on the 
 [5]: https://theme-framework.myshopify.com/collections/frontpage/products/demo-product-1
 [6]: https://experts.shopify.com/elkfox "Elkfox Shopify Experts"
 [7]: https://elkfox.com "Elkfox Shopify Experts"
+
+{% include comments.html %}

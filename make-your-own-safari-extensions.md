@@ -73,3 +73,5 @@ Please feel free to [grab the files I created for my extension and have a play!]
 [3]: https://github.com/Cam/fancy-it
 [4]: https://github.com/Cam/fancy-it/raw/master/demo-image.png "Fancy Safari Extension"
 [5]: https://raw.githubusercontent.com/Cam/fancy-it/master/fancy.safariextz
+
+{% include comments.html %}

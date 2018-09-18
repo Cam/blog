@@ -43,3 +43,5 @@ That's it! Your mail account should now work as it should. Repeat the steps for 
 If you have any feedback or questions, just let me know in the comments section below.
 
 [1]: https://plus.google.com/+CamGould?rel=author
+
+{% include comments.html %}

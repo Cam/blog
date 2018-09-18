@@ -93,3 +93,5 @@ Any suggestions or feedback?
 
 [1]: https://plus.google.com/+CamGould?rel=author
 [2]: https://osxdaily.com/2014/10/25/fix-wi-fi-problems-os-x-yosemite/
+
+{% include comments.html %}

@@ -28,3 +28,5 @@ Upgrade! This was written years ago 😕
 <s>There is an awesome project called [Fix MacOSx] that has been established to document and provided solutions for "phone home" privacy vulnerabilities. I recommend checking it out.</s>
 
 [1]: https://plus.google.com/+CamGould?rel=author
+
+{% include comments.html %}
