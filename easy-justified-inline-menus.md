@@ -13,6 +13,6 @@ This is a really basic little demo. Open it up in [JSFiddle][2] to play around w
 Style it up however you want, and you have a really simple full width responsive menu.
 
 [1]: https://plus.google.com/+CamGould?rel=author
-[2]: http://jsfiddle.net/cam/g9h5R/?utm_source=website&utm_medium=embed&utm_campaign=g9h5R
+[2]: https://jsfiddle.net/cam/g9h5R/?utm_source=website&utm_medium=embed&utm_campaign=g9h5R
 
 {% include comments.html %}

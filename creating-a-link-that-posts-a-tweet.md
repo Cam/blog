@@ -8,17 +8,17 @@ Creating a link that posts a tweet' is really quite simple, but there are a few 
 
 ## Twitter 'Intent' Link
 
-Anyone who has done this before, using the old Twitter API (replaced mid 2013), may be familiar with the url 'http://twitter.com/home/?status='. This URL is no longer used. Now you need to use the new 'intent' method, which goes a little something like this:
+Anyone who has done this before, using the old Twitter API (replaced mid 2013), may be familiar with the url 'https://twitter.com/home/?status='. This URL is no longer used. Now you need to use the new 'intent' method, which goes a little something like this:
 
 [https://twitter.com/intent/tweet?text=Your+text+here+http%3A%2F%2Fyoursite.com%2Fyour-page+%23yourhashtag&via=yourtwittername][2]
 
-When clicked on, that link would create a tweet with the following text: "_Your text here http://yoursite.com/your-page #yourhashtag @yourtwittername_"
+When clicked on, that link would create a tweet with the following text: "_Your text here https://yoursite.com/your-page #yourhashtag @yourtwittername_"
 
 You could of course add this link to an image or a button:
 
 [tweet this][3]
 
-This example uses the text "_How to create a link that posts a tweet_", "_http://camgould.com/blog/creating-a-link-that-posts-a-tweet_" as the link, "_#intent #action #blog_" as hashtags, and "_@camgould_": [TWEET THIS ARTICLE][3]
+This example uses the text "_How to create a link that posts a tweet_", "_https://camgould.com/blog/creating-a-link-that-posts-a-tweet_" as the link, "_#intent #action #blog_" as hashtags, and "_@camgould_": [TWEET THIS ARTICLE][3]
 
 Using this method can be a great way to help make it easy for people to post a tweet and link back to an article, competition, project or whatever you want. Making things easy is the key to encouraging actions.
 

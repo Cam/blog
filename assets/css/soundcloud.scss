@@ -1,0 +1,200 @@
+// .main-section {
+// 	padding-top: 40px;
+// }
+//
+// h1.soundcloud {
+// 	color: #fc441e;
+// 	font-size: 26px;
+// }
+// img.soundcloud-logo {
+// 	margin:0;
+// 	padding:0;
+// 	height: 20px;
+// 	margin: -6px 3px 0 0;
+// }
+
+/* Soundcloud player */
+.sc-player{
+	width: 100%;
+	position: relative;
+	margin: 30px 0 50px;
+}
+.sc-player ol, .sc-player ul, .sc-player li {
+	list-style-type: none;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+.sc-waveform-container {
+	overflow: hidden !important;
+}
+.sc-waveform-container img {
+	height: 80px;
+	width: 100%;
+	filter: brightness(8);
+	-webkit-filter: brightness(8);
+	-moz-filter: brightness(8);
+}
+.sc-scrubber .sc-played {
+	border-right: 1px solid #999999;
+}
+
+.sc-trackslist h2 {
+	font-size: 1.3rem;
+	margin: 0 0 8px;
+	border-bottom:1px solid #E9E9E9;
+}
+.sc-trackslist h2:before {
+/*	content: '▹'; */
+}
+
+.sc-controls {
+	margin: 0 0 2px;
+}
+.sc-pause, .sc-play {
+	color: #fc441e;
+}
+.sc-pause:hover, .sc-play:hover {
+	color: #fc441e;
+	opacity: 0.7;
+}
+.sc-pause span, .sc-play span {
+	display: none;
+}
+
+.sc-time-indicators {
+	font-size: 0.9rem;
+	color: #D1D1D1;
+	margin-bottom: 10px;
+	float: right;
+}
+
+.sc-player ol, .sc-player li{
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
+/* Artworks */
+
+.sc-player .sc-artwork-list{
+  display: none;
+}
+
+.sc-player .sc-artwork-list li{
+  list-style-type: none;
+  display: none;
+}
+
+.sc-player .sc-artwork-list li.active{
+  list-style-type: none;
+  display: block;
+}
+
+.sc-player .sc-artwork-list li img, .sc-player .sc-artwork-list li div{
+  list-style-type: none;
+  width: 100%;
+  height: 100%;
+}
+
+.sc-scrubber .sc-time-span{
+  height: 100%;
+  position: relative;
+}
+
+.sc-scrubber .sc-buffer, .sc-scrubber .sc-played{
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 0;
+  -webkit-transition: width 0.1s linear;
+}
+
+/* Track info*/
+
+.sc-player .sc-info{
+  position: absolute;
+  top: 10px;
+  left: -5000px;
+  width : 200px;
+  padding: 5px;
+  height: 450px;
+  z-index: 500;
+  margin-left: -40px;
+}
+
+.sc-player .sc-info.active{
+  left: 25%;
+  top: 5%;
+}
+
+
+.sc-player .sc-info-toggle{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: none;
+}
+
+.sc-player .sc-info-toggle.active{
+  left: -5000px;
+}
+
+.sc-player .sc-info-close{
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+
+/* utilities */
+
+.sc-player-engine-container{
+  width: 1px;
+  height: 1px;
+  position: fixed;
+  top: 2px;
+  left: 2px;
+}
+
+
+
+/* .sc-player.special {
+  padding: 5px;
+} */
+
+/* .sc-player a {
+  text-decoration: none;
+} */
+
+/* scrubber */
+
+.sc-scrubber {
+  background-color: #E1E1E1;
+}
+
+/* .sc-scrubber .sc-time-span:nth-child(1) {
+  background-color: #ffa8d4;
+} */
+
+.sc-scrubber .sc-time-span img {
+  width: 100%;
+}
+
+
+.sc-scrubber .sc-played {
+  border-right: none;
+  border-top: 8px solid white;
+  box-shadow: 0 -4px 0 #fc441e;
+  opacity: 0.8;
+}
+
+/* Track listings*/
+
+.sc-player ol.sc-trackslist li.active, .sc-player ol.sc-trackslist li:hover {
+  background-color: none;
+}
+
+
+.sc-track-duration {
+  display: none;
+}

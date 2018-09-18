@@ -24,8 +24,8 @@ You can change the position of the submenu to 'absolute' if you want the menu to
 
 ### Fork it on Github
 
-<iframe src="http://ghbtns.com/github-btn.html?user=cam&amp;repo=simple-sub-menu&amp;type=fork&amp;count=false&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="90" height="30" style="margin:0;padding:0;"></iframe>
-<iframe src="http://ghbtns.com/github-btn.html?user=cam&amp;type=follow&amp;count=false&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="30" style="margin:0;padding:0;"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=cam&amp;repo=simple-sub-menu&amp;type=fork&amp;count=false&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="90" height="30" style="margin:0;padding:0;"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=cam&amp;type=follow&amp;count=false&amp;size=large" allowtransparency="true" frameborder="0" scrolling="0" width="165" height="30" style="margin:0;padding:0;"></iframe>
 <br>
 
 [1]: https://plus.google.com/+CamGould?rel=author
