@@ -1,3 +1,7 @@
+---
+date: 2013-09-13 # YYYY-MM-DD
+---
+
 # Creating a link that posts a tweet | Cam
 
 ##### 13th Sep, 2013 by [Cam][1]

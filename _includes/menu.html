@@ -1,5 +1,9 @@
-{% for page in site.pages %}
-  {% unless page.exclude %}
-    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+{% assign items = site.pages | sort: 'date' %}
+{% for item in items reversed %}
+  {% unless item.exclude %}
+    <div class="page-list">
+      <h2><a href="{{ page.url }}">{{ item.title }}</a></h2>
+      <small>{{ item.date | date: '%B %d, %Y' }}</small>
+    </div>
   {% endunless %}
 {% endfor %}

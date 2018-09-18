@@ -1,3 +1,7 @@
+---
+date: 2015-03-17 # YYYY-MM-DD
+---
+
 # How to fix connection issues in Safari on OSx Yosemite
 
 ##### 17th Mar, 2015 by [Cam][1]

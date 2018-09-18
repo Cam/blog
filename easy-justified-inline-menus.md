@@ -1,3 +1,7 @@
+---
+date: 2014-03-08 # YYYY-MM-DD
+---
+
 # Easy justified inline menus
 
 ##### 8th Mar, 2014 by [Cam][1]

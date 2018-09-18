@@ -1,3 +1,7 @@
+---
+date: 2012-12-04 # YYYY-MM-DD
+---
+
 # How to change your Tumblr blog avatar
 
 ##### 4th Dec, 2012 by [Cam][1]

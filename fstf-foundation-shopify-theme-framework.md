@@ -1,3 +1,7 @@
+---
+date: 2013-09-11 # YYYY-MM-DD
+---
+
 # Shopify Theme Framework
 
 ##### 11th Sep, 2013 by [Cam][1]

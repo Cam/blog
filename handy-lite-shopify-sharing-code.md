@@ -1,3 +1,7 @@
+---
+date: 2014-03-10 # YYYY-MM-DD
+---
+
 # Handy 'lite' Shopify sharing code
 
 ##### 10th Mar, 2014 by [Cam][1]

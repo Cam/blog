@@ -1,3 +1,7 @@
+---
+date: 2014-12-27 # YYYY-MM-DD
+---
+
 # Fancy Safari extension
 
 ##### 27th Dec, 2014 by [Cam][1]
