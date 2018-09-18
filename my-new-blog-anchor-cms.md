@@ -8,7 +8,9 @@
 
 I custom built my own theme using my [Anchor Skeleton Theme framework, available on Github][3]. You can see some screenshots on [Anchor Themes][4]
 
-#### Update 18/09/2018: This blog is now hosted on Github Pages
+#### Update 18/09/2018
+
+This blog is now hosted on Github Pages
 
 [1]: https://plus.google.com/+CamGould?rel=author
 [2]: https://anchorcms.com/ "Anchor CMS"
