@@ -30,6 +30,5 @@ If you want to make life a little easier, and and avoid manually writing the for
 [2]: https://twitter.com/intent/tweet?text=Your+text+here+http%3A%2F%2Fyoursite.com%2Fyour-page+%23yourhashtag&via=yourtwittername
 [3]: https://twitter.com/intent/tweet?text=How+to+create+a+link+that+posts+a+tweet+http%3A%2F%2Fcamgould.com%2Fblog%2Fposts%2Fcreating-a-link-that-posts-a-tweet+%23intent+%23action+%23blog&via=camgould
 [4]: https://www.w3schools.com/TAGS/ref_urlencode.asp
-[5]: https://www.sxc.hu/photo/1269150 "A Moment Of Peace"
 
 {% include comments.html %}
