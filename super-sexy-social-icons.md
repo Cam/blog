@@ -10,7 +10,7 @@ Please subscribe to download the free bitmaps as a ZIP file. If you have already
 
 <form action="http://cam.us4.list-manage1.com/subscribe/post?u=3d11e33db089991c2e6214793&amp;id=12a0416781" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
-	<input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="button">
+	<input type="submit" value="Sign Up" name="subscribe" id="mc-embedded-subscribe" class="btn">
 </form>
 
 Please let me know in the comments what you think of the new versions, and which designs and social networks you want to see added.
