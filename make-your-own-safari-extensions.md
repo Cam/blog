@@ -66,7 +66,7 @@ To install the new extension you just need to press the "install" button on the 
 
 ## Get The Files & Play
 
-Please feel free to [grab the files I created for my extension and have a play!][2]
+Please feel free to [grab the files I created for my extension and have a play!][3]
 
 [1]: https://plus.google.com/+CamGould?rel=author
 [2]: https://fancy.com

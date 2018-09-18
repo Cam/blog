@@ -3,3 +3,8 @@
 * https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/
 * https://gist.github.com/cvan/8630f847f579f90e0c014dc5199c337b
 * https://jekyllrb.com/docs/front-matter/
+* https://help.github.com/articles/repository-metadata-on-github-pages/
+
+## Local dev
+
+`$ bundle exec jekyll serve`
