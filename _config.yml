@@ -4,6 +4,3 @@ description: Cam's seldom updated & poor excuse for a blog
 show_downloads: false
 google_analytics: UA-36427871-1
 permalink: /:title
-exclude:
-  - Gemfile
-  - Gemfile.lock
