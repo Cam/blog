@@ -1,3 +1,5 @@
 {% for page in site.pages %}
-  <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  {% unless page.exclude %}
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  {% endunless %}
 {% endfor %}
