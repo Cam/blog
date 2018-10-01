@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  .btn {
-    display: none;
-  }
+  // .btn {
+  //   display: none;
+  // }
   .project-name {
     color: white;
   }
@@ -60,7 +60,7 @@
 }
 
 .page-list {
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0;
   h2 {
     margin-bottom: 0;
   }

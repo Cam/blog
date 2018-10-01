@@ -1,6 +1,10 @@
 theme: jekyll-theme-cayman
 title: Cam's Blog
 description: Cam Gould's seldom updated & poor excuse for a blog
-show_downloads: false
+# show_downloads: false
 google_analytics: UA-36427871-1
 permalink: /:title
+profile_url:
+  github: https://github.com/cam
+  instagram: https://instagram.com/cam
+  twitter: https://twitter.com/camgould
