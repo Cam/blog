@@ -2,7 +2,7 @@
 {% for item in items reversed %}
   {% unless item.exclude %}
     <div class="page-list">
-      <h2><a href="{{ page.url }}">{{ item.title }}</a></h2>
+      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
       <small>{{ item.date | date: '%B %d, %Y' }}</small>
     </div>
   {% endunless %}
